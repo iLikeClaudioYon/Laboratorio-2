@@ -1,0 +1,38 @@
+.caja1{
+    position: relative;
+    background-color:#ffff00;
+    top: 5px;
+    left: 225px;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja2{
+    position: relative;
+    background-color: #40e0d0;
+    text-align: start;
+    top: 10px;
+    left: 225px;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja3{
+    position: relative;
+    background-color: #00ff7f;
+    text-align: justify;
+    top: 10px;
+    left: 225px;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja4{
+    position: relative;
+    background-color: #ff9dde;
+    text-align: justify;
+    top: 10px;
+    left: 225px;
+    width: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+}
